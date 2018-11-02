@@ -1,3 +1,0 @@
-1. Feature selection -> nn accuracy?
-2. PCA -> nn accuracy?
-3. Financial meaning of features
