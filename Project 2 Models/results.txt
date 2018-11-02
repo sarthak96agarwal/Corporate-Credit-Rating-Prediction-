@@ -1,0 +1,7 @@
+NN Classifier -> 89%
+
+KNC -> 92%
+
+SVM -> 71%
+
+Random Forest -> 88%
